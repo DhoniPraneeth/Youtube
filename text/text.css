@@ -1,0 +1,41 @@
+#youtube{
+    margin-top: 40px;
+}
+.text{
+    margin-top: 10px;
+    font-size:19.5px;
+    font-weight: 600;
+    font-family: roboto, sans-serif;
+    width: 285px;
+    margin-bottom: 0px;
+}
+.video.stats{
+    margin-top: 5px;
+    color: hsl(0, 15%, 34%);
+    font-weight: 100;
+    font-size: 15.5px;
+}
+.author{
+   color: hsl(0, 15%, 34%);
+}
+.news{
+    width: 300px;
+    color: hsl(0, 15%, 34%);
+    margin-bottom: 80px;
+}
+.iphone{
+    margin-top: 5px;
+    margin-left:  0px;
+}
+.highlight{
+    background-color: hsl(0, 74%, 53%);
+    padding: 15px;
+    color: white;
+    text-align: center;
+      font-family: roboto, sans-serif;
+      font-size: 14px;
+}
+.under:hover{
+   cursor: pointer;
+    text-decoration: underline;
+}
